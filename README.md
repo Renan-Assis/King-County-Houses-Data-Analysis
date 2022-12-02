@@ -9,3 +9,9 @@ I intend to show in the analysis Where are the most expensive Houses located at,
 I'm open to read any contributions to my analysis and coding, feel free to message me on LinkedIN to suggest any changes or ask for any advice if helps!
 
 LinkedIN: https://www.linkedin.com/in/renancutrimeng/
+
+OBS: UNDERSTAND THE FILES 
+
+kc_house_data.csv --> The CSV File with all the data used in the analysis.
+
+KC.ipynb --> The Jupyter Notebook File with python code to analyze the Dataset.
